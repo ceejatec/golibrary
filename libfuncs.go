@@ -5,5 +5,5 @@ import (
 )
 
 func Greeting() string {
-	return hello.Hello() + " from library 1.0"
+	return hello.Hello() + " from library 1.1"
 }
